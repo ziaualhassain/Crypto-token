@@ -7,5 +7,14 @@ Simple you can copy the .sol file and run it in the remix IDE.
 In the deployment you can give the name of the token
 Make sure you are in a testnet and deploy the file "Web3 injected".
 Import the token address in the metamask and boom you can see the token in your wallet
+
+Contract address of the token : 0x897EB980e7410602a98aE0ad3dea1ca015efB8Cc
+Feel free to verify on etherscan rinkeby test net.
+<img width="1440" alt="Screenshot 2022-07-25 at 10 55 22 AM" src="https://user-images.githubusercontent.com/62405785/180704441-29e29558-7b0a-467c-9a55-00995d119070.png">
+<img width="1440" alt="Screenshot 2022-07-24 at 1 59 32 PM" src="https://user-images.githubusercontent.com/62405785/180704532-297aca06-6ec8-4ef0-a5b8-d89fa3c7a6f8.png">
+Goto : https://rinkeby.etherscan.io
+Paste the contract address :)
+<img width="1440" alt="Screenshot 2022-07-25 at 10 57 38 AM" src="https://user-images.githubusercontent.com/62405785/180704627-d4e94e62-96d9-4516-966d-303b8b732492.png">
+
 Thanks for reading
 Feel free to reach me on Twitter <3
