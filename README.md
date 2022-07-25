@@ -1,7 +1,7 @@
-# Crypto-token
-A ERC-21 Token
-Cryto token Creation
-To create a token we need not to write a whole code from scratch
+# Crypto-token <br />
+A ERC-21 Token <br />
+Cryto token Creation <br />
+To create a token we need not to write a whole code from scratch <br />
 We can use a already existing file ERC-21 it is a file you can find on openzepllin github repository
 Simple you can copy the .sol file and run it in the remix IDE.
 In the deployment you can give the name of the token
